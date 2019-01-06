@@ -1,6 +1,6 @@
 token= NTMxNTA1NzExMzQ4MzE4MjE4.DxO_Sw.mAQ5njqtc_biXMEIbGshn4_eoOw
 owner=503269263595929624
 prefix=x
-game= HAWADET SERVER
+game= الشيخ بودااهه ي كسمك 
 stayinchannel=true
 songinstatus=true 
