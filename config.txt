@@ -1,5 +1,5 @@
 token=NTYzNDU0MzkzNDgwMTE4Mjgy.XMNiPw.1c51hQ0OFM6T8IQ8w3C7fNUmlYY
-owner=503269263595929624
+owner=538083629461536789
 prefix=4
 game=Type 4 Play
 stayinchannel=true
