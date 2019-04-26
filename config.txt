@@ -1,6 +1,6 @@
-token= NTMxNTA1NzExMzQ4MzE4MjE4.DxO_Sw.mAQ5njqtc_biXMEIbGshn4_eoOw
+token=NTYzNDU0MzkzNDgwMTE4Mjgy.XMNiPw.1c51hQ0OFM6T8IQ8w3C7fNUmlYY
 owner=503269263595929624
-prefix=x
-game= الشيخ بودااهه ي كسمك 
+prefix=4
+game=Type 4 Play
 stayinchannel=true
 songinstatus=true 
